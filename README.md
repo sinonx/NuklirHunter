@@ -1,2 +1,7 @@
 # NuklirHunter
-Kode nuklir hunter untuk para mans of culture
+
+
+Use Python 3.xx
+
+
+pip install requests
